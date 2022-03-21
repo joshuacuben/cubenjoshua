@@ -39,7 +39,9 @@ html::-webkit-scrollbar-thumb{
 body{
     background:#1E1D1D;
 }
-
+.btn-about-container{
+margin-top: 1rem;
+}
 
 section{
     min-height: 100vh;
